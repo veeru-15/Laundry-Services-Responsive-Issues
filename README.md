@@ -2,9 +2,20 @@
 
 A responsive Laundry Services landing page built using HTML and CSS. This project focuses on creating a modern, user-friendly, and fully responsive hero section that adapts seamlessly across desktop, tablet, and mobile devices.
 
-## 📸 Project Preview
+## 📸 Project Screenshots
 
-![Project Screenshot](screenshot.png)
+### Desktop View
+
+![Desktop View](desktop_view.png)
+
+### iPad Mini View
+
+![iPad Mini View](ipadmini_view.png)
+
+### Mobile View
+
+![Mobile View](mobile_view.png)
+
 
 ## 🚀 Features
 
@@ -32,7 +43,9 @@ Laundry-Services-Responsive-Issues
 ├── index.html
 ├── style.css
 ├── Laundry.webp
-├── screenshot.png
+├── desktop_view.png
+├── ipadmini_view.png
+├── mobile_view.png
 └── README.md
 ```
 
